@@ -14,7 +14,7 @@ Commencing from October 9, 2022, to November 13, 2022, the project underwent tho
 
 ### Project Colab Link
 
-Access the project's Google Colab environment for code implementation and experimentation: [Project Colab](https://colab.research.google.com/drive/172mY-dbLJq484xGz-Yb_O1vUNVuuWbVX)
+Access the project's Google Colab environment for code implementation and experimentation: [Project's Google Colab](https://colab.research.google.com/drive/172mY-dbLJq484xGz-Yb_O1vUNVuuWbVX)
 
 ## Technical Details
 
