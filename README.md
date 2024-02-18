@@ -11,7 +11,7 @@ This project focuses on leveraging advanced reinforcement learning techniques to
 
 ## Project Scope
 
-Executed from October 9, 2022, to November 13, 2022, this project was undertaken by the Tunisian Space Association (TUNSA)'s AI team.
+ This project was undertaken by the Tunisian Space Association (TUNSA)'s AI team from October 9, 2022, to November 13, 2022.
 
 ## Technical Details
 
